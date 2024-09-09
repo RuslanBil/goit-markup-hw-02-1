@@ -1,0 +1,11 @@
+{
+	"editor.wordWrap": "bounded",
+	"editor.wrappingIndent": "same",
+	"editor.wordWrapColumn": "80",
+	"editor.folding": false,
+	"editor.fontSize": "17",
+	"html.autoClosingTags": true,
+	"editor.glyphMargin": false,
+	"window.density.editorTabHeight": "compact",
+	"workbench.activityBar.location": "top"
+}
